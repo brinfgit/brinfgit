@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brinfgit
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on big tech and use FAANG standards
+- 👋 Hi, we @Brinf Dev Team
+- 👀 We interested in Coding
+- 🌱 We currently learning AI/ML
+- 💞️ We looking to collaborate on big tech and use FAANG standards
 - 📫 How to reach me hello@brinf.net
 
 <!---
